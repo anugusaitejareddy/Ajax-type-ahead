@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+
+  padding-top: 4rem;
+
+  background-color: #ffc600;
+}
+
+input {
+  padding: 1rem 2rem;
+  border: 2px solid #f7f7f7;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  background: white;
+  list-style: none;
+  padding: 1rem 2rem;
+  box-shadow: inset 0 0 0 10px rgba(0, 0, 0, 0.1);
+}
